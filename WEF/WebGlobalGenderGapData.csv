@@ -1,0 +1,170 @@
+,Country (by Region),Region,Page Number,LaborForceParticipationRatio,LaborForceParticipation(female %),EstimatedEarnedIncomeRatio,"ProportionOfUnpaidWorkPerDay,Female/maleRatio",ShareOfWorkersInInformalSector(female),"Women’sAccessToLandUse,Control&Ownership,0-1(worst)","UnmetDemandforFamilyPlanning,%women15-49","PublicChildcareExpenditure,%GDP","RighttoEqualJustice,0-1(worst)",WageEquality(0-1best),"Maternal mortality,deathsper100,000livebirths",WomeninMinisterialPositions,WomeninParliament 
+1.01,Albania ,Eastern Europe and Central Asia,93,0.794,61.5,0.588,6.26,53.9,0.25,12.9, n/a,0,,,,
+1.02,Armenia,Eastern Europe and Central Asia,101,0.691,51.0,0.499,4.95,37.7,0.25,12.5,n/a,0.25,,,,
+1.03,Azerbaijan,Eastern Europe and Central Asia,107,0.932,69.5,0.549,2.86,n/a,0,15.4,n/a,0.25,,,,
+1.04,Belarus,Eastern Europe and Central Asia,117,0.904,74.3,0.610,1.93,n/a,0,7,n/a,0.25,,,,
+1.05,Bosnia & Herzegovina,Eastern Europe and Central Asia,129,0.682,46.8,0.560,n/a,24.3,0.25,9,n/a,0.25,,,,
+1.06,Bulgaria,Eastern Europe and Central Asia,137,0.886,68.9,0.649,2,n/a,0.25,14,0.97,0,,,,
+1.07,Croatia,Eastern Europe and Central Asia,163,0.860,62.0,0.729,n/a,n/a,0.25,11,n/a,0.25,,,,
+1.08,Czech Republic,Eastern Europe and Central Asia,169,0.837,70.0,0.627,n/a,n/a,0,4.3,0.44,0.25,,,,
+1.09,Estonia,Eastern Europe and Central Asia,183,0.925,75.8,0.580,1.54,n/a,0,12,0.76,0,,,,
+1.10,Georgia,Eastern Europe and Central Asia,197,0.790,61.5,0.508,n/a,50.1,0.25,12.3,n/a,0,,,,
+1.11,Hungary,Eastern Europe and Central Asia,213,0.817,65.3,0.575,1.86,n/a,0.25,9,0.73,0,,,,
+1.12,Kazakhstan,Eastern Europe and Central Asia,237,0.879,71.8,0.591,2.19,n/a,0.25,11.9,n/a,0.25,,,,
+1.13,Kyrgz Republic,Eastern Europe and Central Asia,255,0.609,47.3,0.471,1.69,61.5,0.25,18,n/a,0,,,,
+1.14,Latvia,Eastern Europe and Central Asia,249,0.939,75.4,0.718,2.15,n/a,0,16.8,0.76,0,,,,
+1.15,Lithuania,Eastern Europe and Central Asia,257,0.973,77.2,0.779,1.95,n/a,0,13,0.79,0,,,,
+1.16,Moldova,Eastern Europe and Central Asia,279,0.903,44.8,0.747,1.78,21.7,0,9.5,n/a,0,,,,
+1.17,Montenegro,Eastern Europe and Central Asia,283,0.804,59.1,0.718,n/a,n/a,0.25,21.8,n/a,0,,,,
+1.18,North Macedonia,Eastern Europe and Central Asia,305,0.708,54.7,0.593,3.01,11,0.25,17.2,n/a,0.25,,,,
+1.19,Poland,Eastern Europe and Central Asia,323,0.813,63.5,0.640,1.82,n/a,0,10,0.61,0,,,,
+1.20,Romania,Eastern Europe and Central Asia,329,0.756,59.1,0.704,2.11,n/a,0,10,0.35,0,,,,
+1.21,Russian Federation,Eastern Europe and Central Asia,331,0.869,69.0,0.589,n/a,n/a,0,10,n/a,0.25,,,,
+1.22,Serbia,Eastern Europe and Central Asia,339,0.823,61.0,0.693,2.03,19,0.25,14.9,n/a,0.25,,,,
+1.23,Slovak Republic,Eastern Europe and Central Asia,345,0.843,66.5,0.630,n/a,n/a,0,9,0.5,0.25,,,,
+1.24,Slovenia,Eastern Europe and Central Asia,347,0.926,72.2,0.792,1.78,n/a,0.25,9.2,0.49,0,,,,
+1.25,Tajikistan,Eastern Europe and Central Asia,363,0.586,30.7,0.446,n/a,n/a,0.25,22.9,n/a,0.25,,,,
+1.26,Ukraine,Eastern Europe and Central Asia,381,0.835,60.8,0.598,n/a,n/a,0,4.9,n/a,0.25,,,,
+2.01,Israel,Middle East & North Africa,227,0.931,69.6,0.610,NA,NA,0.25,9,0.840,,0.595,,,
+2.02,UAE,Middle East & North Africa,383,0.562,52.9,0.360,NA,NA,0,18,NA,,0.79,,,
+2.03,Tunisia,Middle East & North Africa,375,0.372,28.1,0.278,7.49,NA,0.25,7,NA,,0.648,,,
+2.04,Egypt,Middle East & North Africa,179,0.266,20.0,0.221,NA,53.2,0.75,12.6,NA,,0.795,,,
+2.05,Jordan,Middle East & North Africa,235,0.231,15.6,0.273,NA,29.9,0.25,11.7,NA,,0.698,,,
+2.06,Lebanon,Middle East & North Africa,251,0.336,25.6,0.343,NA,55.5,0.5,13,NA,,0.618,,,
+2.07,Turkey,Middle East & North Africa,377,0.494,38.5,0.446,3.64,NA,0.25,5.9,0.15,,0.617,,,
+2.08,Algeria,Middle East & North Africa,95,0.254,18.7,0.190,5.89,NA,0.25,7,NA,,0.815,,,
+2.09,Bahrain,Middle East & North Africa,11,0.532,47.0,0.767,NA,NA,0.25,12,NA,,0.532,,,
+2.10,Niger,Middle East & North Africa,301,0.738,62.4,0.559,NA,86.5,0.25,21,NA,,0.628,,,
+2.11,Qatar,Middle East & North Africa,327,0.606,57.9,0.420,1.81,NA,0,12.4,NA,,0.723,,,
+2.12,Kuwait,Middle East & North Africa,243,0.581,51.6,0.391,NA,NA,1,16,NA,,0.676,,,
+2.13,Morocco ,Middle East & North Africa,285,0.312,23.4,0.237,6.97,NA,0.25,8,NA,,0.656,,,
+2.14,Oman,Middle East & North Africa,309,0.445,37.8,0.265,2.38,NA,0.25,17.8,NA,,0.792,,,
+2.15,Mauritania,Middle East & North Africa,273,0.455,29.1,0.341,NA,91.2,0.75,33.6,NA,,0.5,,,
+2.16,Saudi Arabia,Middle East & North Africa,335,0.289,23.3,0.235,NA,NA,0.25,27,NA,,0.748,,,
+2.17,"Iran, Islamic Rep",Middle East & North Africa,221,0.246,18.9,0.184,3.91,NA,0,5.7,NA,,0.579,,,
+2.18,Syria,Middle East & North Africa,361,0.202,15.8,NA,NA,NA,0.25,16.4,NA,,NA,,,
+2.19,Iraq,Middle East & North Africa,223,0.157,12.1,0.119,5.78,NA,0.25,8,NA,,NA,,,
+2.20,Yemen,Middle East & North Africa,397,0.087,6.3,0.065,NA,82.2,0.25,28.7,NA,,0.706,,,
+3.01,New Zealand ,East Asia and the Pacific,297,0.901,76.8,0.637,1.71,n/a,0,9,0.93,,,9,,
+3.02,Philippines ,East Asia and the Pacific,321,0.653,49.1,0.693,2.69,n/a,1,17.5,n/a,,,121,,
+3.03,Lao PDR ,East Asia and the Pacific,247,0.978,80.5,0.979,4.17,86,0,19.9,n/a,,,185,,
+3.04,Australia ,East Asia and the Pacific,103,0.887,73.8,0.459,1.82,n/a,0,11,0.65,,,6,,
+3.05,Singapore,East Asia and the Pacific,343,0.828,69.7,0.708,n/a,n/a,0,11,n/a,,,8,,
+3.06,Timor-leste ,East Asia and the Pacific,369,0.854,62.1,1.000,1.27,76.4,0.5,25.3,n/a,,,142,,
+3.07,Mongolia ,East Asia and the Pacific,281,0.795,58.9,0.666,2.09,38,0.25,16,n/a,,,45,,
+3.08,Thailand ,East Asia and the Pacific,367,0.816,66.8,0.814,3.52,65.2,0.25,6.2,n/a,,,37,,
+3.09,Viet Nam ,East Asia and the Pacific,395,0.920,79.6,0.819,1.48,63,0.25,6.6,n/a,,,43,,
+3.10,Indonesia ,East Asia and the Pacific,219,0.665,56.0,0.517,n/a,81.8,0.5,14.5,n/a,,,177,,
+3.11,Korea ,East Asia and the Pacific,241,0.774,60.1,0.492,4.43,n/a,0.25,6,0.96,,,11,,
+3.12,Cambodia ,East Asia and the Pacific,143,0.898,80.5,0.798,10,96,0.25,12.5,n/a,,,160,,
+3.13,China ,East Asia and the Pacific,155,0.829,68.6,0.612,2.57,n/a,0,4,n/a,,,29,,
+3.14,Myanmar ,East Asia and the Pacific,289,0.627,50.2,0.563,n/a,86.4,0.5,16.2,n/a,,,250,,
+3.15,Brunei Darussalam ,East Asia and the Pacific,135,0.779,59.7,0.721,n/a,29.1,0,n/a,n/a,,,31,,
+3.16,Malaysia ,East Asia and the Pacific,265,0.686,55.5,0.619,3.2,n/a,0.5,18,n/a,,,29,,
+3.17,Fiji ,East Asia and the Pacific,189,0.513,40.6,0.470,n/a,41.5,0.25,n/a,n/a,,,34,,
+3.18,Japan ,East Asia and the Pacific,233,0.840,72.8,0.563,4.76,n/a,0.25,20,0.44,,,5,,
+3.19,Papua New Guinea ,East Asia and the Pacific,315,0.982,48.0,0.742,n/a,n/a,0.5,27.4,n/a,,,145,,
+3.20,Vanuatu ,East Asia and the Pacific,391,0.776,61.7,0.575,n/a,n/a,n/a,n/a,n/a,,,72,,
+4.01,Argentina,Latin America and The Carribean,99,0.749,59.5,0.553,2.84,49.4,0.25,9,n/a,,,,,
+4.02,Bahamas,Latin America and The Carribean,109,0.881,76.5,0.660,n/a,n/a,no data,no data,n/a,,,,,
+4.03,Barbados,Latin America and The Carribean,115,0.655,75.2,0.868,n/a,69.7,0,19.9,n/a,,,,,
+4.04,Belize,Latin America and The Carribean,121,0.623,52.2,0.561,n/a,n/a,0,22.2,n/a,,,,,
+4.05,Bolivia,Latin America and The Carribean,127,0.795,65.7,0.670,n/a,86.7,0.25,20.1,n/a,,,,,
+4.06,Brazil,Latin America and The Carribean,133,0.772,61.9,0.567,4.27,42.5,0.25,10.8,n/a,,,,,
+4.07,Cape Verde,Latin America and The Carribean,149,0.824,57.6,0.693,1.65,63.9,0,16.7,n/a,,,,,
+4.08,Chile,Latin America and The Carribean,153,0.751,59.1,0.548,2.24,30.4,0.75,13,0.64,,,,,
+4.09,Colombia,Latin America and The Carribean,157,0.728,61.6,0.539,3.43,61.6,0,6.7,n/a,,,,,
+4.1,Costa Rica,Latin America and The Carribean,161,0.695,58.3,0.645,2.53,43.2,0,7.6,n/a,,,,,
+4.11,Cuba,Latin America and The Carribean,165,0.648,50.5,no data,2.74,n/a,0.25,8,n/a,,,,,
+4.12,Dominican Republic,Latin America and The Carribean,175,0.699,58.5,0.518,n/a,50.2,0,11.4,n/a,,,,,
+4.13,Ecuador,Latin America and The Carribean,177,0.696,58.2,0.721,3.91,74.9,0.25,8.8,n/a,,,,,
+4.14,El Salvador,Latin America and The Carribean,181,0.619,49.3,0.608,2.16,72.2,0.25,11,n/a,,,,,
+4.15,Guatemala,Latin America and The Carribean,205,0.481,42.5,0.471,5.81,81.2,0.25,13.9,n/a,,,,,
+4.16,Guyana,Latin America and The Carribean,209,0.657,46.4,0.393,n/a,50.4,0.25,28,n/a,,,,,
+4.17,Honduras,Latin America and The Carribean,211,0.617,54.3,0.690,3.1,81,0.25,10.7,n/a,,,,,
+4.18,Jamaica,Latin America and The Carribean,231,0.854,65.8,0.627,n/a,n/a,0.25,10,n/a,,,,,
+4.19,Mexico,Latin America and The Carribean,277,0.596,49.1,0.506,2.74,n/a,0.25,13,0.56,0.34375,,,,
+4.2,Nicaragua,Latin America and The Carribean,299,0.608,52.9,0.456,2.95,82.4,0.25,14.6,n/a,0.25,,,,
+4.21,Panama,Latin America and The Carribean,313,0.713,60.0,0.671,2.46,50.9,0,16.4,n/a,0.75,,,,
+4.22,Paraguay,Latin America and The Carribean,317,0.724,63.8,0.613,2.23,70,0.5,12.1,n/a,0,,,,
+4.23,Peru,Latin America and The Carribean,319,0.841,74.1,0.626,2.6,73.5,0,6,n/a,0.25,,,,
+4.24,Suriname,Latin America and The Carribean,355,0.631,43.9,0.565,n/a,45.7,n/a,n/a,n/a,0,,,,
+4.25,Trinidad and Tobago,Latin America and The Carribean,373,0.732,58.0,0.540,n/a,n/a,0.25,24.3,n/a,0.75,,,,
+4.26,Uruguay ,Latin America and The Carribean,389,0.825,68.1,0.612,2.32,23.4,0.25,7,n/a,0,,,,
+4.27,Venezuela,Latin America and The Carribean,393,0.586,46.6,0.432,n/a,n/a,0,11,n/a,0.75,,,,
+5.01,Canada,North America,147,0.917,75.6,0.661,1.51,n/a,0.5,7,n/a,0.25,,,,
+5.02,USA,North America,378,0.867,67.9,0.654,1.59,n/a,0,9,0.33,0.25,,,,
+6.01,Afghanistan,South Asia,91,0.297,22.7,0.133,n/a,n/a,0.25,39.1,n/a,0.25,,,,
+6.02,Bangladesh ,South Asia,113,0.457,38.5,0.403,3.77,96.6,0.5,12,n/a,0,,,,
+6.03,Bhutan ,South Asia,125,0.812,62.3,0.585,2.3,n/a,0.25,11.7,n/a,0.75,,,,
+6.04,India ,South Asia,271,0.280,22.3,0.207,9.67,88.5,0.25,12.9,n/a,0.25,,,,
+6.05,Maldives ,South Asia,267,0.497,43.1,0.373,n/a,51.5,0.25,28.6,n/a,0.25,,,,
+6.06,Nepal ,South Asia,293,0.991,85.3,0.741,3.13,86.5,0.25,23.7,n/a,0.25,,,,
+6.07,Pakistan ,South Asia,311,0.267,22.6,0.163,10.24,90.6,0.5,20.1,n/a,0,,,,
+6.08,Sri Lanka ,South Asia,353,0.475,37.6,0.384,n/a,61.7,0.75,7.5,n/a,0.75,,,,
+7.01,Namibia,Sub-Saharan Africa,291,0.891,57.2,0.821,n/a,58.4,0.25,17.5,n/a,0.25,,,,
+7.02,Rwanda,Sub-Saharan Africa,333,1.000,84.4,0.607,2.63,83.4,0.25,18.9,n/a,0.25,,,,
+7.03,South Africa,Sub-Saharan Africa,349,0.815,54.1,0.698,2.36,56.9,0.25,14.7,n/a,0.25,,,,
+7.04,Burundi,Sub-Saharan Africa,141,1.000,81.7,1.000,n/a,99.1,0.25,29.7,n/a,0.25,,,,
+7.05,Mozambique,Sub-Saharan Africa,287,0.989,77.9,0.775,n/a,98.4,0.25,23.1,n/a,0.25,,,,
+7.06,Zimbabwe,Sub-Saharan Africa,401,0.883,79.1,0.746,1.93,80.8,0.25,10.4,n/a,0.25,,,,
+7.07,Eswatini,Sub-Saharan Africa,185,0.925,51.3,0.580,1.54,n/a,0,12,0.76,0,,,,
+7.08,Zambia,Sub-Saharan Africa,399,0.901,71.3,0.973,n/a,78.1,0,21.1,n/a,0.75,,,,
+7.09,Madagascar,Sub-Saharan Africa,261,0.945,84.7,0.830,4.85,96.7,0.25,19,n/a,0.25,,,,
+7.10,Uganda,Sub-Saharan Africa,379,0.922,68.2,0.596,3.88,90.4,0.5,29.6,n/a,0.75,,,,
+7.11,Cape Verde,Sub-Saharan Africa,149,0.824,57.6,0.693,1.65,63.9,0,16.7,n/a,0.25,,,,
+7.12,Botswana,Sub-Saharan Africa,131,0.877,68.5,0.612,n/a,68.7,0.5,9.6,n/a,0.75,,,,
+7.13,Tanzania,Sub-Saharan Africa,365,0.586,81.1,0.446,n/a,n/a,0.25,22.9,n/a,0.75,,,,
+7.14,Lesotho,Sub-Saharan Africa,253,0.823,63.1,0.606,2.52,n/a,0.5,18.4,n/a,0.25,,,,
+7.15,Liberia,Sub-Saharan Africa,255,0.909,73.4,1.000,n/a,96.7,0.5,31.1,n/a,,,,,0.57785
+7.16,Kenya,Sub-Saharan Africa,239,0.943,72.4,0.719,2.23,n/a,0.5,15.6,n/a,,,,1,0.664
+7.17,Cameroon,Sub-Saharan Africa,145,0.883,72.1,0.476,2.87,94.1,1,18,n/a,,,,1,0.724
+7.18,Ethiopia,Sub-Saharan Africa,187,0.877,76.0,0.580,2.33,n/a,0.25,22.8,n/a,,,,0.376,0.272
+7.19,Senegal,Sub-Saharan Africa,337,0.619,36.4,0.486,n/a,95.2,0.25,23.6,n/a,,,,0.462,0.658
+7.20,Togo,Sub-Saharan Africa,371,0.929,56.4,0.796,n/a,95.9,0.5,33.6,n/a,,,,1,0.852
+7.21,Mauritius,Sub-Saharan Africa,275,0.664,52.8,0.495,3.79,49.5,0.25,12.5,n/a,,,,1,0.653
+7.22,Malawi,Sub-Saharan Africa,273,0.914,73.9,0.593,-,n/a,0.25,18.7,n/a,,,,0.667,0.46
+7.23,Ghana,Sub-Saharan Africa,201,0.896,65.4,0.292,-,91.5,0.25,26.3,n/a,,,,0.117,0.277
+7.24,Guinea,Sub-Saharan Africa,207,0.982,65.0,0.742,n/a,n/a,0.5,27.4,n/a,,,,0.667,0.658
+7.25,Angola,Sub-Saharan Africa,97,0.973,76.9,0.728,n/a,91.3,0.5,38,n/a,,,,0.401,0.29
+7.26,Sierra Leone,Sub-Saharan Africa,341,1.000,59.2,0.744,-,n/a,0.5,25,n/a,,,,0.572,0.555
+7.27,Benin,Sub-Saharan Africa,123,0.959,70.2,0.725,-,98.5,0.25,33.1,n/a,,,,0.416,0.464
+7.28,Burkina Faso,Sub-Saharan Africa,139,0.793,60.0,0.567,-,97.7,0.25,29.1,n/a,,,,0.176,0.155
+7.29,"Gambia, The",Sub-Saharan Africa,195,0.760,52.5,0.708,n/a,81.5,0.5,24.9,n/a,,,,0.89,0.499
+7.30,Côte d'Ivoire,Sub-Saharan Africa,171,0.717,45.5,0.550,n/a,90.7,1,30.5,n/a,,,,0.637,0.799
+7.31,Niger,Sub-Saharan Africa,301,0.738,62.4,0.559,n/a,86.5,0.25,21,n/a,,,,0.727,0.667
+7.32,Nigeria,Sub-Saharan Africa,303,0.773,49.3,0.584,-,n/a,0.25,27.6,n/a,,,,1,0.786
+7.33,Chad,Sub-Saharan Africa,151,0.836,64.4,0.671,n/a,99,0.5,22.9,n/a,,,,1,0.887
+7.34,Mali,Sub-Saharan Africa,269,0.725,60.0,0.281,-,96.6,0.25,17.2,n/a,,,,0.751,0.724
+7.35,"Congo, Democratic Rep.",Sub-Saharan Africa,159,0.933,61.9,0.636,n/a,n/a,0.5,27.7,n/a,,,,0.312,0.513
+8.01,Austria,Western Europe,105,0.886,72.2,0.548,-,N/A ,0,10,0.51,,,,,0.664
+8.02,Belgium,Western Europe,119,0.887,64.9,0.657,-,N/A ,0,7,0.82,,,,,0.724
+8.03,Cyprus,Western Europe,167,0.885,70.2,0.721,n/a,N/A ,0,8,0.37,,,,,0.272
+8.04,Denmark,Western Europe,173,0.928,76.0,0.717,-,N/A ,0,10,1.23,,,,,0.658
+8.05,Finland,Western Europe,191,0.962,76.6,0.721,-,N/A ,0,8,1.13,,,,,0.852
+8.06,France,Western Europe,193,0.905,68.3,0.710,2.63,N/A ,0,4,1.32,,,,,0.653
+8.07,Germany,Western Europe,199,0.897,74.7,0.698,-,N/A ,0,10,0.6,,,,,0.46
+8.08,Greece,Western Europe,203,0.790,60.6,0.647,-,N/A ,0.5,10,N/A,,,,,0.277
+8.09,Iceland,Western Europe,215,0.946,84.3,0.737,n/a,N/A ,0,N/A,1.8,,,,,0.658
+8.10,Ireland,Western Europe,225,0.850,67.6,0.666,-,N/A ,0,11,0.32,,,,,0.29
+8.11,Italy,Western Europe,229,0.752,56.5,0.572,-,N/A ,0,11,0.56,,,,,0.555
+8.12,Luxembourg,Western Europe,259,0.878,66.9,0.678,-,N/A ,0,N/A,0.74,,,,,0.464
+8.13,Malta,Western Europe,271,0.770,64.5,0.536,-,N/A ,0,5,0.5,,,,,0.155
+8.14,Netherlands,Western Europe,295,0.899,76.6,0.659,-,N/A ,0,8,0.6,,,,,0.499
+8.15,Norway,Western Europe,307,0.938,75.6,0.792,-,N/A ,0,6,1.33,,,,,0.799
+8.16,Portugal,Western Europe,325,0.928,73,0.732,-,N/A ,0,8,0.38,,,,,0.667
+8.17,Spain,Western Europe,351,0.876,69.2,0.651,-,N/A ,0.25,12,0.5,,,,,0.786
+8.18,Sweden,Western Europe,357,0.956,81.3,0.823,-,N/A ,0,10,1.6,,,,,0.887
+8.19,Switzerland,Western Europe,359,0.908,80.1,0.706,-,N/A ,0,8,N/A,,,,,0.724
+8.20,United Kingdom,Western Europe,285,0.893,73.6,0.583,-,N/A ,0.25,6,0.65,,,,,0.513
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,162,,,,,,,,,,,,,,,
+,11,,,,,,,,,,,,,,,
